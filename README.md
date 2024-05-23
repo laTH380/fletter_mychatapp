@@ -1,6 +1,8 @@
 # mychatapp
 
-A new Flutter project.
+Flutterの勉強用プロジェクト
+基礎を学んだ
+→ホスティング先：https://mychatapp-9f19a.web.app/
 
 ## Getting Started
 
